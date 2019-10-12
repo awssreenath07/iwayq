@@ -1,29 +1,33 @@
-# README #
+# PROJECT DESCRIPTION #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+DevOps  project explains complete CI/CD pipeline view to  deploy  code  changes into tomcat container.
 
-### What is this repository for? ###
+1. Continuous Integration
+2. Continuous Deployment
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### PRE-REQUISITES ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Ensure below servers are already  setup
 
-### Contribution guidelines ###
+1. Jenkins Server
+    Install Jenkins, Java, Apache Maven
+2. Apache Tomcat
+    Install Apache Tomcat, Java
+3. Developer box
+    Install Git
+4. BitBucket Repository
+    Create Bit Bucket Repository and keep  credentials ready
 
-* Writing tests
-* Code review
-* Other guidelines
+### STEPS  ###
 
-### Who do I talk to? ###
+1. Configure Build Job
+2. Configure Deploy Job
+3. Install  required Jenkins Plugins
+	3.1 
+4. Create pipeline 
 
-* Repo owner or admin
-* Other community or team contact
+### HOW TO TEST PIPELINE ###
+1. Commit  code changes to the Bit Bucket Repository
+2. Expecting that Jenkins trigger pipeline and  deploy WAR artifacts to apache tomcat container.
+
