@@ -24,7 +24,6 @@ Ensure below servers are already  setup
 1. Configure Build Job
 2. Configure Deploy Job
 3. Install  required Jenkins Plugins
-	3.1 
 4. Create pipeline 
 
 ### HOW TO TEST PIPELINE ###
