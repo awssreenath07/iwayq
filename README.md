@@ -19,7 +19,7 @@ Ensure below servers are already  setup
 4. BitBucket Repository
     Create Bit Bucket Repository and keep  credentials ready
 
-### STEPS  ###
+### STEPS  ### 
  
 1. Configure Build Job
 2. Configure Deploy Job
