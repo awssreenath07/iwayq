@@ -20,7 +20,7 @@ Ensure below servers are already  setup
     Create Bit Bucket Repository and keep  credentials ready
 
 ### STEPS  ###
-
+ 
 1. Configure Build Job
 2. Configure Deploy Job
 3. Install  required Jenkins Plugins
