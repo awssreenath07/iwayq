@@ -27,6 +27,6 @@ Ensure below servers are already  setup
 4. Create pipeline 
 
 ### HOW TO TEST PIPELINE ###
-1. Commit  code changes to the Bit Bucket Repository
+1. Commit  code changes to the Bit Bucket Repository 
 2. Expecting that Jenkins trigger pipeline and  deploy WAR artifacts to apache tomcat container.
 
